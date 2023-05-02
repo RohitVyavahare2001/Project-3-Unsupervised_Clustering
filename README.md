@@ -1,6 +1,6 @@
 # Customer Segmentation using Machine Learning Algorithms
 
-**## Overview:**
+**# Overview:**
 
 This project uses machine learning algorithms to group customers based on their behavior and preferences. Customer segmentation is a useful technique that businesses can use to understand their customers better and tailor their products and marketing strategies accordingly. The project involves exploratory data analysis (EDA), dimensionality reduction using PCA, and clustering using KMeans, Hierarchical, and DBSCAN algorithms.
 
