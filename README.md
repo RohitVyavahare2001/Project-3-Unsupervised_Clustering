@@ -1,14 +1,14 @@
 # Customer Segmentation using Machine Learning Algorithms
 
-**Overview**
+**Overview:**
 
 This project uses machine learning algorithms to group customers based on their behavior and preferences. Customer segmentation is a useful technique that businesses can use to understand their customers better and tailor their products and marketing strategies accordingly. The project involves exploratory data analysis (EDA), dimensionality reduction using PCA, and clustering using KMeans, Hierarchical, and DBSCAN algorithms.
 
-**Data**
+**Data:**
 
 The data used in this project is a customer transaction dataset that includes information about customers' purchasing behavior, demographics, and preferences. The dataset was preprocessed and cleaned before being used in the analysis.
 
-**Analysis**
+**Analysis:**
 
 The analysis involves several steps, including:
 
@@ -20,10 +20,10 @@ Clustering using machine learning algorithms: KMeans, Hierarchical, and DBSCAN a
 
 Evaluation of the clustering results: The results of the clustering algorithms are evaluated using the silhouette score, which measures how well the data points within a cluster are separated from the data points in other clusters.
 
-**Results**
+**Results:**
 
 The DBSCAN algorithm had the highest silhouette score, indicating that it was the most effective algorithm for customer segmentation. The project demonstrates how machine learning algorithms can be used to provide valuable insights to businesses and help them make data-driven decisions.
 
-**Conclusion**
+**Conclusion:**
 
 Customer segmentation is a useful technique that businesses can use to understand their customers better and tailor their products and marketing strategies accordingly. This project demonstrates how machine learning algorithms can be used to provide valuable insights to businesses and help them make data-driven decisions.
